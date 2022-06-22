@@ -80,30 +80,6 @@ nav ul{
     padding-bottom: 10rem;
 }
 
-.banner-title h1{
-    background: rgba(255, 255, 255, 0.2);
-    padding: 20px;
-    border-radius: 35PX;
-    color: rgb(255, 255, 255);
-}
-
-
-#banner h2{
-    padding: 20px;
-    background-color: rgba(255, 35, 6, 0.836);
-    border-radius: 35PX;
-    color: rgb(3, 3, 3);
-    width: 400px;
-    margin: 3rem 10rem;
-    
-}
-
-
-.banner-title :hover{
-    background: #eb5b4b;
-    text-decoration: none;
-}
-
 .section {
     padding-top: 70px;
     padding-bottom: 70px;
